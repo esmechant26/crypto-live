@@ -599,7 +599,7 @@ export default function PolymarketPage() {
             marginBottom: 10,
           }}
         >
-          <ChainlinkChart history={history} startTime={round.startTime} endTime={round.endTime} now={now} />
+          <ChainlinkChart history={history} now={now} />
         </div>
 
         {/* Polymarket asks */}
