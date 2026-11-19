@@ -1,3 +1,5 @@
+deployed at: https://crypto-live-liart.vercel.app/
+
 Crypto Live
 A real-time cryptocurrency dashboard built with React and Vite. Follow live market prices and explore Bitcoin's short-duration Polymarket Up/Down markets from one interface.
 Features
