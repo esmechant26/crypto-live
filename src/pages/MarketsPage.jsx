@@ -14,7 +14,6 @@ const HISTORY_LIMIT = 60 * 60 * 1000;
 const UPDATE_INTERVAL = 100;
 
 const MUTED = "var(--muted)";
-const GREEN = "var(--green)";
 
 const panel = {
   background: "var(--surface)",
